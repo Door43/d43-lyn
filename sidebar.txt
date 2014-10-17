@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lyn:home|Door43 (lyn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lyn|d43-lyn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lyn/archive/master.zip|d43-lyn.zip]]
+
+**Recent Changes**
+{{changes>ns = lyn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lyn|Ethnologue data]]
+
